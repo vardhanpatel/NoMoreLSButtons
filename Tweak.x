@@ -1,8 +1,8 @@
 %hook CSQuickActionsViewController
--(BOOL)allowsFlashlight{
+-(BOOL)hasCamera{
 return NO;
 }
--(BOOL)allowsCameraPress{
+-(BOOL)hasFlashlight{
 return NO;
 }
 
