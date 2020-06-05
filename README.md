@@ -1,0 +1,4 @@
+# NoMoreLSButtons
+Removes LS Buttons
+
+^^^
